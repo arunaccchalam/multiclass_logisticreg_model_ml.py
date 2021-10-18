@@ -10,7 +10,7 @@ from sklearn.metrics import roc_curve, auc
 
 # Data
 
-df = pd.read_csv('../DATA/iris.csv')
+df = pd.read_csv('https://github.com/arunaccchalam/multiclass_logisticreg_model_ml.py/blob/main/iris.csv')
 
 df.head()
 
